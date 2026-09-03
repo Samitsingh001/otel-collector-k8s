@@ -1,0 +1,1 @@
+# otel-collector-k8s
